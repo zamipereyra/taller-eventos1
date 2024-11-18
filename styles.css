@@ -1,0 +1,8 @@
+.my-button{
+    width: 60px;
+    padding: 10px;
+    background: rgb(50, 205, 197);
+    border-radius: 5px;
+    color: aliceblue;
+    cursor: pointer;
+}
